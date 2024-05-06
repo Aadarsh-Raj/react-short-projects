@@ -1,0 +1,74 @@
+[
+    {
+        "id":"eas1",
+        "name":"Counter",
+        "level": "Easy",
+        "path":"/counter"
+    },
+    {
+        "id":"eas2",
+        "name":"Programming Multiverse",
+        "level": "Easy",
+        "path":"/programmigmultiverse"
+    },
+    {
+        "id":"eas3",
+        "name":"Anagram Checker",
+        "level": "Easy",
+        "path":"/anagramchecker"
+    },
+    {
+        "id":"eas4",
+        "name":"Quote Generator",
+        "level": "Easy",
+        "path":"/quotegenerator"
+    },
+    {
+        "id":"eas5",
+        "name":"Image Gallery",
+        "level": "Easy",
+        "path":"/imagegallery"
+    },
+    {
+        "id":"eas6",
+        "name":"Accordion",
+        "level": "Easy",
+        "path":"/accordion"
+    },
+    {
+        "id":"eas7",
+        "name":"Background Changer",
+        "level": "Easy",
+        "path":"/backgroundchanger"
+    },
+    {
+        "id":"eas8",
+        "name":"Light Dark Mode",
+        "level": "Easy",
+        "path":"/lightdarkmode"
+    },
+    {
+        "id":"eas9",
+        "name":"QR Generator",
+        "level": "Easy",
+        "path":"/qrgenerator"
+    },
+    {
+        "id":"eas10",
+        "name":"Your Sport",
+        "level": "Easy",
+        "path":"/yoursport"
+    },
+    {
+        "id":"eas11",
+        "name":"Table Colorizer",
+        "level": "Easy",
+        "path":"/tablecolorizer"
+    },
+    {
+        "id":"eas12",
+        "name":"Guess the number",
+        "level": "Easy",
+        "path":"/guessthenumber"
+    }
+]

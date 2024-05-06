@@ -1,0 +1,26 @@
+.task-card{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 25%;
+    align-items: center;
+    background-color: whitesmoke;
+    gap: 0.3rem;
+    padding: 1rem;
+    
+    box-shadow: 0px 2px 32px 7px rgba(158,70,218,0.75);
+-webkit-box-shadow: 0px 2px 32px 7px rgba(158,70,218,0.75);
+-moz-box-shadow: 0px 2px 32px 7px rgba(158,70,218,0.75);
+cursor: pointer;
+transition: all 0.5s;
+text-align: center;
+}
+.task-card p{
+    color: red;
+    font-weight: bolder;
+}
+.task-card:hover{
+   transform: scale(1.2);
+}
+.task-card:hover h3{
+    color: gray;
+}
