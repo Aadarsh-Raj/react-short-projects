@@ -5,6 +5,7 @@ import Header from './Components/Header';
 import Error from './Components/Error';
 import Counter from './Components/Counter';
 import BackgroundChanger from './Components/BackgroundChanger';
+import GuessTheNumber from './Components/GuessTheNumber';
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       <Route path='/counter' element={<Counter />} />
 
 <Route path='/backgroundchanger' element={<BackgroundChanger />} />
+<Route path="/guessthenumber" element={<GuessTheNumber />} />
       <Route path="/*" element={<Error />} errorElement={<Error />}/>
       </Routes>
 

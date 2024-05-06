@@ -1,0 +1,10 @@
+.guess-the-number-container{
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.guess-the-number-container input,.guess-the-number-container button{
+    padding: 0.5rem;
+}
